@@ -15,7 +15,7 @@
 
 | Fabricante | Modelo do Cabo | Tipo de Conector | Tamanho | Compatibilidade | Valor Médio |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Benfei | B07JFTK8YV | Adaptador DP para HDMI | 15cm | **SIM** | R$ 50 |
+| Benfei | B07JFTK8YV | Adaptador DP para HDMI | 15cm | **Completa - Aúdio e vídeo** | R$ 50 |
 | Exemplo | Modelo XYZ | Cabo DP 1.4 | 1.8m | *EM TESTE* | R$ 80 |
 
 ---
