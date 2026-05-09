@@ -1,13 +1,23 @@
+<h1 align="center">AMD BC250 - HDMI/DisplayPort Compatibility</h1>
 
+<p align="center">
+  <img width="100%" alt="Banner BC250" src="https://github.com/user-attachments/assets/80ec4558-22de-4cd3-a37b-e09b0e2dd25b" />
+</p>
 
-<h3 align="center"># AMD BC250- HDMI/Displayport compatibility</h3>
-<img width="3000" height="100" alt="583906863-ffa16b7c-9c8a-4fdc-b997-32bec19aec37 (1)" src="https://github.com/user-attachments/assets/80ec4558-22de-4cd3-a37b-e09b0e2dd25b" />
+<p align="center">
+  This repository focuses on listing DisplayPort/HDMI cables and adapters compatible with the BC250.
+</p>
 
-This repository focuses on listing DisplayPort/HDMI cables compatible with the BC250.
+---
 
-### Tabela de Compatibilidade BC250
+### Tabela de Compatibilidade
 
 | Fabricante | Modelo do Cabo | Tipo de Conector | Tamanho | Compatibilidade | Valor Médio |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Benfei | B07JFTK8YV | Adaptador DP para HDMI | 15cm | Sim | R$ 50 |
-| Exemplo | Modelo XYZ | Cabo DP 1.4 | 1.8m | Em teste | R$ 80 |
+| Benfei | B07JFTK8YV | Adaptador DP para HDMI | 15cm | **SIM** | R$ 50 |
+| Exemplo | Modelo XYZ | Cabo DP 1.4 | 1.8m | *EM TESTE* | R$ 80 |
+
+---
+
+### Como contribuir
+Se você testou um cabo ou adaptador que não está na lista, sinta-se à vontade para abrir uma **Issue** ou enviar um **Pull Request**.
