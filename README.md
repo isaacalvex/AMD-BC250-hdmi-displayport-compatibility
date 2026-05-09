@@ -2,7 +2,7 @@
 
 
 <h1 align="center">AMD BC250 - HDMI/DisplayPort Compatibility</h1>
-<img width="200" height="138" alt="a6bef827f67d70ff27cf7599da1bbd36" src="https://github.com/user-attachments/assets/cc5d08ea-632f-4827-bbd1-33eec4002fe3" />
+<img width="200" height="1238" alt="a6bef827f67d70ff27cf7599da1bbd36" src="https://github.com/user-attachments/assets/cc5d08ea-632f-4827-bbd1-33eec4002fe3" />
 
 <p align="center">
   <img width="100%" alt="Banner BC250" src="https://github.com/user-attachments/assets/80ec4558-22de-4cd3-a37b-e09b0e2dd25b" />
