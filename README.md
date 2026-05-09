@@ -1,3 +1,6 @@
+<img width="200" height="138" alt="a6bef827f67d70ff27cf7599da1bbd36" src="https://github.com/user-attachments/assets/cc5d08ea-632f-4827-bbd1-33eec4002fe3" />
+
+
 <h1 align="center">AMD BC250 - HDMI/DisplayPort Compatibility</h1>
 
 <p align="center">
