@@ -15,7 +15,7 @@
 | Foto | Fabricante | Modelo / Tipo | Tamanho / Testado em | Compatibilidade | Valor médio | Link |
 | :---: | :--- | :--- | :--- | :--- | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/ae637e66-53c6-46dc-bc58-49d3ee04a902" width="50"> | **Benfei** | B07JFTK8YV <br> (Adaptador) | 15cm <br> Samsung TV QLED 55, <br> Monitor Azropa 144hz | **Completa** <br> Áudio e Vídeo | R$ 50 | [Link](#) |
-| <img src="https://github.com/user-attachments/assets/b02b074d-814b-4cae-8339-a00029eadc5d" width="50"> | **Ugreen** | 10103 <br> (Cabo) | 1.8m <br> Samsung TV QLED 55, <br> Monitor Azropa 144hz | **Completa** <br> Áudio e Vídeo | R$ 120 | [Link](#) |
+| <img src="https://github.com/user-attachments/assets/b02b074d-814b-4cae-8339-a00029eadc5d" width="50"> | **Ugreen** | 10103 <br> (Cabo) | 1.8m <br> Samsung TV QLED 55, <br> Monitor Azropa 144hz, <br> TV TCL | **Completa** <br> Áudio e Vídeo | R$ 120 | [Link](#) |
 
 ---
 
