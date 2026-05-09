@@ -1,4 +1,3 @@
-
 <h1 align="center">AMD BC250 - HDMI/DisplayPort Compatibility</h1>
 
 <p align="center">
@@ -13,10 +12,10 @@
 
 ### Tabela de Compatibilidade
 
-| Foto | Fabricante | Modelo do Cabo | Tipo de Conector | Tamanho | Compatibilidade | Valor Médio | Testado em | Link |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| <img width="450" height="450" alt="br-11134207-81z1k-mggv7m1gtrev70@resize_w450_nl" src="https://github.com/user-attachments/assets/ae637e66-53c6-46dc-bc58-49d3ee04a902" />  | Benfei | B07JFTK8YV | Adaptador | 15cm | **Completa - Aúdio e vídeo** | R$ 50 |Samsung TV QLED 55, Monitor Azropa 144hz ||
-| <img width="450" height="450" alt="D_NQ_NP_994720-MLB48321221770_112021-O" src="https://github.com/user-attachments/assets/b02b074d-814b-4cae-8339-a00029eadc5d" /> | Ugreen | 10103 | Cabo | 1.8m | **Completa - Aúdio e vídeo** | R$ 120 | Samsung TV QLED 55, Monitor Azropa 144hz ||
+| Foto | Fabricante | Modelo / Tipo | Tamanho / Testado em | Compatibilidade | Valor | Link |
+| :---: | :--- | :--- | :--- | :--- | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/ae637e66-53c6-46dc-bc58-49d3ee04a902" width="50"> | **Benfei** | B07JFTK8YV <br> (Adaptador) | 15cm <br> Samsung TV QLED 55, <br> Monitor Azropa 144hz | **Completa** <br> Áudio e Vídeo | R$ 50 | [Link](#) |
+| <img src="https://github.com/user-attachments/assets/b02b074d-814b-4cae-8339-a00029eadc5d" width="50"> | **Ugreen** | 10103 <br> (Cabo) | 1.8m <br> Samsung TV QLED 55, <br> Monitor Azropa 144hz | **Completa** <br> Áudio e Vídeo | R$ 120 | [Link](#) |
 
 ---
 
