@@ -1,5 +1,6 @@
-# AMD-BC250-hdmi-displayport-compatibility
 
+
+<h3 align="center"># AMD BC250- HDMI/Displayport compatibility</h3>
 <img width="3000" height="100" alt="583906863-ffa16b7c-9c8a-4fdc-b997-32bec19aec37 (1)" src="https://github.com/user-attachments/assets/80ec4558-22de-4cd3-a37b-e09b0e2dd25b" />
 
 This repository focuses on listing DisplayPort/HDMI cables compatible with the BC250.
