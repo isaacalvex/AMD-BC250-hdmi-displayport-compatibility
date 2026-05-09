@@ -13,10 +13,10 @@
 
 ### Tabela de Compatibilidade
 
-| Fabricante | Modelo do Cabo | Tipo de Conector | Tamanho | Compatibilidade | Valor Médio |
-| :--- | :--- | :--- | :--- | :--- | :--- |
+| Fabricante | Modelo do Cabo | Tipo de Conector | Tamanho | Compatibilidade | Valor Médio | Testado em | Link |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Benfei | B07JFTK8YV | Adaptador DP para HDMI | 15cm | **Completa - Aúdio e vídeo** | R$ 50 |
-| Exemplo | Modelo XYZ | Cabo DP 1.4 | 1.8m | *EM TESTE* | R$ 80 |
+| Ugreen | 10103 | Cabo DP para HDMI | 1.8m | **Completa - Aúdio e vídeo** | R$ 120 | Samsung TV QLED 55, Monitor Azropa 144hz ||
 
 ---
 
