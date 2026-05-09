@@ -15,8 +15,8 @@
 
 | Foto | Fabricante | Modelo do Cabo | Tipo de Conector | Tamanho | Compatibilidade | Valor Médio | Testado em | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| <img width="450" height="450" alt="br-11134207-81z1k-mggv7m1gtrev70@resize_w450_nl" src="https://github.com/user-attachments/assets/ae637e66-53c6-46dc-bc58-49d3ee04a902" />  | Benfei | B07JFTK8YV | Adaptador DP para HDMI | 15cm | **Completa - Aúdio e vídeo** | R$ 50 |Samsung TV QLED 55, Monitor Azropa 144hz ||
-| <img width="450" height="450" alt="D_NQ_NP_994720-MLB48321221770_112021-O" src="https://github.com/user-attachments/assets/b02b074d-814b-4cae-8339-a00029eadc5d" /> | Ugreen | 10103 | Cabo DP para HDMI | 1.8m | **Completa - Aúdio e vídeo** | R$ 120 | Samsung TV QLED 55, Monitor Azropa 144hz ||
+| <img width="450" height="450" alt="br-11134207-81z1k-mggv7m1gtrev70@resize_w450_nl" src="https://github.com/user-attachments/assets/ae637e66-53c6-46dc-bc58-49d3ee04a902" />  | Benfei | B07JFTK8YV | Adaptador | 15cm | **Completa - Aúdio e vídeo** | R$ 50 |Samsung TV QLED 55, Monitor Azropa 144hz ||
+| <img width="450" height="450" alt="D_NQ_NP_994720-MLB48321221770_112021-O" src="https://github.com/user-attachments/assets/b02b074d-814b-4cae-8339-a00029eadc5d" /> | Ugreen | 10103 | Cabo | 1.8m | **Completa - Aúdio e vídeo** | R$ 120 | Samsung TV QLED 55, Monitor Azropa 144hz ||
 
 ---
 
